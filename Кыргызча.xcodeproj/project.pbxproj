@@ -83,17 +83,17 @@
 		B29AE0411D05463E003C94E5 /* KeyMenuItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyMenuItem.swift; sourceTree = "<group>"; };
 		B2C8F8D6FBC3362BD04C7C81 /* Pods-KeyboardLayoutEngine.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KeyboardLayoutEngine.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KeyboardLayoutEngine/Pods-KeyboardLayoutEngine.debug.xcconfig"; sourceTree = "<group>"; };
 		B2E5A7BB445B23C841DC5314 /* Pods-KeyboardLayoutEngineTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KeyboardLayoutEngineTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KeyboardLayoutEngineTests/Pods-KeyboardLayoutEngineTests.debug.xcconfig"; sourceTree = "<group>"; };
-		B2FBDCC81CDD2224008D6100 /* KeyboardLayoutEngine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KeyboardLayoutEngine.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B2FBDCC81CDD2224008D6100 /* Кыргызча.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Кыргызча.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2FBDCCB1CDD2224008D6100 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B2FBDCCD1CDD2224008D6100 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		B2FBDCD01CDD2224008D6100 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B2FBDCD21CDD2224008D6100 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B2FBDCD51CDD2224008D6100 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B2FBDCD71CDD2224008D6100 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B2FBDCDC1CDD2224008D6100 /* KeyboardLayoutEngineTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KeyboardLayoutEngineTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B2FBDCDC1CDD2224008D6100 /* Кыргызча.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Кыргызча.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2FBDCE01CDD2224008D6100 /* KeyboardLayoutEngineTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardLayoutEngineTests.swift; sourceTree = "<group>"; };
 		B2FBDCE21CDD2224008D6100 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B2FBDCE71CDD2224008D6100 /* KeyboardLayoutEngineUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KeyboardLayoutEngineUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B2FBDCE71CDD2224008D6100 /* Кыргызча.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Кыргызча.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2FBDCEB1CDD2224008D6100 /* KeyboardLayoutEngineUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardLayoutEngineUITests.swift; sourceTree = "<group>"; };
 		B2FBDCED1CDD2224008D6100 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B2FBDCFD1CDD2292008D6100 /* Keyboard.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = Keyboard.appex; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -206,9 +206,9 @@
 		B2FBDCC91CDD2224008D6100 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B2FBDCC81CDD2224008D6100 /* KeyboardLayoutEngine.app */,
-				B2FBDCDC1CDD2224008D6100 /* KeyboardLayoutEngineTests.xctest */,
-				B2FBDCE71CDD2224008D6100 /* KeyboardLayoutEngineUITests.xctest */,
+				B2FBDCC81CDD2224008D6100 /* Кыргызча.app */,
+				B2FBDCDC1CDD2224008D6100 /* Кыргызча.xctest */,
+				B2FBDCE71CDD2224008D6100 /* Кыргызча.xctest */,
 				B2FBDCFD1CDD2292008D6100 /* Keyboard.appex */,
 			);
 			name = Products;
@@ -271,9 +271,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B2FBDCC71CDD2224008D6100 /* KeyboardLayoutEngine */ = {
+		B2FBDCC71CDD2224008D6100 /* Кыргызча */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B2FBDCF01CDD2224008D6100 /* Build configuration list for PBXNativeTarget "KeyboardLayoutEngine" */;
+			buildConfigurationList = B2FBDCF01CDD2224008D6100 /* Build configuration list for PBXNativeTarget "Кыргызча" */;
 			buildPhases = (
 				95A4E66675A7D29CF4299306 /* [CP] Check Pods Manifest.lock */,
 				B2FBDCC41CDD2224008D6100 /* Sources */,
@@ -288,14 +288,14 @@
 			dependencies = (
 				B2FBDD031CDD2292008D6100 /* PBXTargetDependency */,
 			);
-			name = KeyboardLayoutEngine;
+			name = "Кыргызча";
 			productName = KeyboardLayoutEngine;
-			productReference = B2FBDCC81CDD2224008D6100 /* KeyboardLayoutEngine.app */;
+			productReference = B2FBDCC81CDD2224008D6100 /* Кыргызча.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B2FBDCDB1CDD2224008D6100 /* KeyboardLayoutEngineTests */ = {
+		B2FBDCDB1CDD2224008D6100 /* КыргызчаTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B2FBDCF31CDD2224008D6100 /* Build configuration list for PBXNativeTarget "KeyboardLayoutEngineTests" */;
+			buildConfigurationList = B2FBDCF31CDD2224008D6100 /* Build configuration list for PBXNativeTarget "КыргызчаTests" */;
 			buildPhases = (
 				225C4B1643DF1BD01788C204 /* [CP] Check Pods Manifest.lock */,
 				B2FBDCD81CDD2224008D6100 /* Sources */,
@@ -309,14 +309,14 @@
 			dependencies = (
 				B2FBDCDE1CDD2224008D6100 /* PBXTargetDependency */,
 			);
-			name = KeyboardLayoutEngineTests;
+			name = "КыргызчаTests";
 			productName = KeyboardLayoutEngineTests;
-			productReference = B2FBDCDC1CDD2224008D6100 /* KeyboardLayoutEngineTests.xctest */;
+			productReference = B2FBDCDC1CDD2224008D6100 /* Кыргызча.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		B2FBDCE61CDD2224008D6100 /* KeyboardLayoutEngineUITests */ = {
+		B2FBDCE61CDD2224008D6100 /* КыргызчаUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B2FBDCF61CDD2224008D6100 /* Build configuration list for PBXNativeTarget "KeyboardLayoutEngineUITests" */;
+			buildConfigurationList = B2FBDCF61CDD2224008D6100 /* Build configuration list for PBXNativeTarget "КыргызчаUITests" */;
 			buildPhases = (
 				30730B6BACC97110CCBAA8C5 /* [CP] Check Pods Manifest.lock */,
 				B2FBDCE31CDD2224008D6100 /* Sources */,
@@ -329,9 +329,9 @@
 			dependencies = (
 				B2FBDCE91CDD2224008D6100 /* PBXTargetDependency */,
 			);
-			name = KeyboardLayoutEngineUITests;
+			name = "КыргызчаUITests";
 			productName = KeyboardLayoutEngineUITests;
-			productReference = B2FBDCE71CDD2224008D6100 /* KeyboardLayoutEngineUITests.xctest */;
+			productReference = B2FBDCE71CDD2224008D6100 /* Кыргызча.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 		B2FBDCFC1CDD2292008D6100 /* Keyboard */ = {
@@ -380,7 +380,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B2FBDCC31CDD2224008D6100 /* Build configuration list for PBXProject "KeyboardLayoutEngine" */;
+			buildConfigurationList = B2FBDCC31CDD2224008D6100 /* Build configuration list for PBXProject "Кыргызча" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -393,9 +393,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B2FBDCC71CDD2224008D6100 /* KeyboardLayoutEngine */,
-				B2FBDCDB1CDD2224008D6100 /* KeyboardLayoutEngineTests */,
-				B2FBDCE61CDD2224008D6100 /* KeyboardLayoutEngineUITests */,
+				B2FBDCC71CDD2224008D6100 /* Кыргызча */,
+				B2FBDCDB1CDD2224008D6100 /* КыргызчаTests */,
+				B2FBDCE61CDD2224008D6100 /* КыргызчаUITests */,
 				B2FBDCFC1CDD2292008D6100 /* Keyboard */,
 			);
 		};
@@ -651,12 +651,12 @@
 /* Begin PBXTargetDependency section */
 		B2FBDCDE1CDD2224008D6100 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B2FBDCC71CDD2224008D6100 /* KeyboardLayoutEngine */;
+			target = B2FBDCC71CDD2224008D6100 /* Кыргызча */;
 			targetProxy = B2FBDCDD1CDD2224008D6100 /* PBXContainerItemProxy */;
 		};
 		B2FBDCE91CDD2224008D6100 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B2FBDCC71CDD2224008D6100 /* KeyboardLayoutEngine */;
+			target = B2FBDCC71CDD2224008D6100 /* Кыргызча */;
 			targetProxy = B2FBDCE81CDD2224008D6100 /* PBXContainerItemProxy */;
 		};
 		B2FBDD031CDD2292008D6100 /* PBXTargetDependency */ = {
@@ -779,7 +779,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.prototapp.KeyboardLayoutEngine;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Кыргызча";
 			};
 			name = Debug;
 		};
@@ -793,7 +793,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.prototapp.KeyboardLayoutEngine;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Кыргызча";
 			};
 			name = Release;
 		};
@@ -805,8 +805,8 @@
 				INFOPLIST_FILE = KeyboardLayoutEngineTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.prototapp.KeyboardLayoutEngineTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KeyboardLayoutEngine.app/KeyboardLayoutEngine";
+				PRODUCT_NAME = "Кыргызча";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Кыргызча.app/Кыргызча";
 			};
 			name = Debug;
 		};
@@ -818,8 +818,8 @@
 				INFOPLIST_FILE = KeyboardLayoutEngineTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.prototapp.KeyboardLayoutEngineTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KeyboardLayoutEngine.app/KeyboardLayoutEngine";
+				PRODUCT_NAME = "Кыргызча";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Кыргызча.app/Кыргызча";
 			};
 			name = Release;
 		};
@@ -830,7 +830,7 @@
 				INFOPLIST_FILE = KeyboardLayoutEngineUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.prototapp.KeyboardLayoutEngineUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Кыргызча";
 				TEST_TARGET_NAME = KeyboardLayoutEngine;
 			};
 			name = Debug;
@@ -842,7 +842,7 @@
 				INFOPLIST_FILE = KeyboardLayoutEngineUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.prototapp.KeyboardLayoutEngineUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Кыргызча";
 				TEST_TARGET_NAME = KeyboardLayoutEngine;
 			};
 			name = Release;
@@ -876,7 +876,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B2FBDCC31CDD2224008D6100 /* Build configuration list for PBXProject "KeyboardLayoutEngine" */ = {
+		B2FBDCC31CDD2224008D6100 /* Build configuration list for PBXProject "Кыргызча" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B2FBDCEE1CDD2224008D6100 /* Debug */,
@@ -885,7 +885,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B2FBDCF01CDD2224008D6100 /* Build configuration list for PBXNativeTarget "KeyboardLayoutEngine" */ = {
+		B2FBDCF01CDD2224008D6100 /* Build configuration list for PBXNativeTarget "Кыргызча" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B2FBDCF11CDD2224008D6100 /* Debug */,
@@ -894,7 +894,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B2FBDCF31CDD2224008D6100 /* Build configuration list for PBXNativeTarget "KeyboardLayoutEngineTests" */ = {
+		B2FBDCF31CDD2224008D6100 /* Build configuration list for PBXNativeTarget "КыргызчаTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B2FBDCF41CDD2224008D6100 /* Debug */,
@@ -903,7 +903,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B2FBDCF61CDD2224008D6100 /* Build configuration list for PBXNativeTarget "KeyboardLayoutEngineUITests" */ = {
+		B2FBDCF61CDD2224008D6100 /* Build configuration list for PBXNativeTarget "КыргызчаUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B2FBDCF71CDD2224008D6100 /* Debug */,
