@@ -41,11 +41,11 @@ public var CustomKeyboardLowercaseRightKeyButtonStyle = KeyboardButtonStyle(text
 public var CustomKeyboardSpaceButtonStyle = KeyboardButtonStyle(font: UIFont.systemFontOfSize(15))
 public var CustomKeyboardBackspaceButtonStyle = KeyboardButtonStyle(
   backgroundColor: UIColor(red: 172.0/255.0, green: 179.0/255.0, blue: 188.0/255.0, alpha: 1),
-  imageSize: 20)
+  imageSize: 17)
 
 public var CustomKeyboardShiftButtonStyle = KeyboardButtonStyle(
   backgroundColor: UIColor(red: 172.0/255.0, green: 179.0/255.0, blue: 188.0/255.0, alpha: 1),
-  imageSize: 20)
+  imageSize: 17)
 
 public var CustomKeyboardGlobeButtonStyle = KeyboardButtonStyle(
   backgroundColor: UIColor(red: 172.0/255.0, green: 179.0/255.0, blue: 188.0/255.0, alpha: 1),
