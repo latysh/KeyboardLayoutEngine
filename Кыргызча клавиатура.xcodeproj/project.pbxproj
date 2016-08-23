@@ -780,9 +780,9 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				INFOPLIST_FILE = KeyboardLayoutEngine/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = co.prototapp.KeyboardLayoutEngine;
+				PRODUCT_BUNDLE_IDENTIFIER = com.latysh.KeyboardLayoutEngine;
 				PRODUCT_NAME = "Кыргызча клавиатура";
 				PROVISIONING_PROFILE = "";
 			};
@@ -797,9 +797,9 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				INFOPLIST_FILE = KeyboardLayoutEngine/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = co.prototapp.KeyboardLayoutEngine;
+				PRODUCT_BUNDLE_IDENTIFIER = com.latysh.KeyboardLayoutEngine;
 				PRODUCT_NAME = "Кыргызча клавиатура";
 				PROVISIONING_PROFILE = "";
 			};
@@ -812,7 +812,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = KeyboardLayoutEngineTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = co.prototapp.KeyboardLayoutEngineTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.latysh.KeyboardLayoutEngineTests;
 				PRODUCT_NAME = "Кыргызча клавиатура";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Кыргызча клавиатура.app/Кыргызча клавиатура";
 			};
@@ -825,7 +825,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = KeyboardLayoutEngineTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = co.prototapp.KeyboardLayoutEngineTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.latysh.KeyboardLayoutEngineTests;
 				PRODUCT_NAME = "Кыргызча клавиатура";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Кыргызча клавиатура.app/Кыргызча клавиатура";
 			};
@@ -837,7 +837,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = KeyboardLayoutEngineUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = co.prototapp.KeyboardLayoutEngineUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.latysh.KeyboardLayoutEngineUITests;
 				PRODUCT_NAME = "Кыргызча клавиатура";
 				TEST_TARGET_NAME = KeyboardLayoutEngine;
 			};
@@ -849,7 +849,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = KeyboardLayoutEngineUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = co.prototapp.KeyboardLayoutEngineUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.latysh.KeyboardLayoutEngineUITests;
 				PRODUCT_NAME = "Кыргызча клавиатура";
 				TEST_TARGET_NAME = KeyboardLayoutEngine;
 			};
@@ -864,7 +864,7 @@
 				INFOPLIST_FILE = Keyboard/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = co.prototapp.KeyboardLayoutEngine.Keyboard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.latysh.KeyboardLayoutEngine.Keyboard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
@@ -880,7 +880,7 @@
 				INFOPLIST_FILE = Keyboard/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = co.prototapp.KeyboardLayoutEngine.Keyboard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.latysh.KeyboardLayoutEngine.Keyboard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
